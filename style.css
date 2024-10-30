@@ -1,0 +1,88 @@
+.tabs{
+   color:rgb(31, 31, 33);
+    background-color:whitesmoke ;
+}
+
+table,th,tr,td{
+    border:2px black;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    height:200px;
+    width:70%;
+}
+a{
+    text-align-last: center;
+ }table{
+    text-align:center;
+ }
+ .v1{
+    background-color: chocolate;
+    border:none;
+border-radius: 30px;
+padding:6px;
+}
+
+#click{
+    color:red;
+}
+#click:hover{
+    color:rgb(213, 17, 17);
+    cursor:pointer;
+    text-decoration: underline;
+}
+.sample{
+color:white;
+background-color:rgb(20, 20, 24);
+        
+}
+table,h1{
+   text-align:center;
+   /*height:69px;*/
+   width:100%;
+
+}.tab1{
+   color:white;
+   background-color:midnightblue;
+}.tab2{
+   color:white;
+   background-color:brown; 
+}.table3{
+   color:white;
+   background-color:midnightblue;
+}.tab4{
+   color:white;
+   background-color:darkblue;
+}.tab5{
+   color:white;
+   background-color:rgb(38, 148, 38);
+  
+}.tab6{
+   color:white;
+   background-color:brown; 
+}.tab7{
+   color:white;
+   background-color:orangered; 
+}.tab8{
+   color:white;
+   background-color:blue; 
+   
+}.tab9{
+   color:white;
+   background-color:purple; 
+
+}
+.tab1,.tab2,.tab3s,.tab4,.tab5,.tab6,.tab7,.tab8,.tab9{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#jacks:hover{
+  color:rgb(213, 17, 17);
+  cursor:pointer;
+  text-decoration: underline;
+      }
+          
+    
+
+
+ 
